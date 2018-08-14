@@ -1,18 +1,25 @@
 
 # Table of Contents 
 - [Application Demo](#application-demo)
-  * [Login & Welcome Page](#sub-heading-0)
-  * [Main features](#sub-heading-1)
-  * [Other Features](#sub-heading-2)
+  * [Login & Welcome Page](#login-&-welcome-page)
+  * [Main features](#main-features)
+  * [Other Features](#other-features)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+- [Project Structure](#project-structure)
   * [Sub-heading](#sub-heading-1)
   * [Sub-heading](#sub-heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
+- [Technologies](#technologies)
+  * [Architecture](#architecture)
+  * [Languages](#languages)
+  * [Libraries](#libraries)
+  * [Other resources](#other-resources)
     + [Sub-sub-heading](#sub-sub-heading-2)
+- [How to run](#how-to-run)
+  * [How to](#how-to)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+
 
 
 <!-- toc -->
@@ -28,34 +35,59 @@ This is an h1 heading
 
 ### Main features
 
+![app_demo_part_2](https://user-images.githubusercontent.com/37666186/44117828-ad4c6ac0-a014-11e8-9d14-4a031f666cf5.gif)
+
 ### Other Features
 
 
 #### Sub-sub-heading
 
-This is an h3 heading
+To do 
 
-## Heading
+## Project Structure
 
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
+To do 
 
 ### Sub-heading
 
-This is an h2 heading
+To do 
 
 #### Sub-sub-heading
+
+To do 
+
+## Technologies
+
+To do 
+
+### Architecture
+
+To do 
+
+### Languages
+To do 
+
+### Libraries
+
+To do 
+### Other resources
+
+To do 
+
+#### Sub-sub-heading
+To do 
+
+## How to run
+
+This is an h1 heading
+
+### How to
+
+To do 
+
+#### Sub-sub-heading
+
+To do 
 
 This is an h3 heading
 
