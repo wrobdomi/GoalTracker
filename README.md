@@ -1,24 +1,21 @@
 
 # Table of Contents 
 - [Application Demo](#application-demo)
-  * [Login & Welcome Page](#login-&-welcome-page)
+  * [Login & Welcome Page](#login-and-welcome-page)
   * [Main features](#main-features)
-  * [Other Features](#other-features)
-    + [Sub-sub-heading](#sub-sub-heading)
+  * [Playing around with JS](#playing-around-with-JS)
 - [Project Structure](#project-structure)
   * [Sub-heading](#sub-heading-1)
   * [Sub-heading](#sub-heading-1)
   * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
 - [Technologies](#technologies)
   * [Architecture](#architecture)
   * [Languages](#languages)
   * [Libraries](#libraries)
   * [Other resources](#other-resources)
-    + [Sub-sub-heading](#sub-sub-heading-2)
 - [How to run](#how-to-run)
   * [How to](#how-to)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+   
 
 
 
@@ -29,7 +26,7 @@
 
 This is an h1 heading
 
-### Login & Welcome Page 
+### Login and Welcome Page 
 
 ![app_demo_part_1](https://user-images.githubusercontent.com/37666186/44115665-c39519c2-a00e-11e8-9a45-5b84e0db8b18.gif)
 
@@ -37,12 +34,13 @@ This is an h1 heading
 
 ![app_demo_part_2](https://user-images.githubusercontent.com/37666186/44117828-ad4c6ac0-a014-11e8-9d14-4a031f666cf5.gif)
 
-### Other Features
+### Playing around with JS
+
+![app_demo_part_3](https://user-images.githubusercontent.com/37666186/44118719-51581fc2-a017-11e8-9aed-241cce003011.gif)
 
 
-#### Sub-sub-heading
 
-To do 
+
 
 ## Project Structure
 
@@ -52,9 +50,9 @@ To do
 
 To do 
 
-#### Sub-sub-heading
 
-To do 
+
+
 
 ## Technologies
 
@@ -74,8 +72,11 @@ To do
 
 To do 
 
-#### Sub-sub-heading
-To do 
+
+
+
+
+
 
 ## How to run
 
@@ -85,11 +86,7 @@ This is an h1 heading
 
 To do 
 
-#### Sub-sub-heading
 
-To do 
-
-This is an h3 heading
 
 
 
