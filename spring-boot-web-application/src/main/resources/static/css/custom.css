@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+
+body {
+    background:white;
+    font-family: 'Nunito', cursive;
+}
+
+.jumbo-features {
+	background-color: #98b2e6;
+	text-align: center;
+}
+
+caption {
+	text-align: center;
+}
+
+.main-table-row {
+	background-color: #B591F2;
+}
+
+.done-table-row {
+	background-color: #A4C639;
+	
+}
+
+.todo-table-row {
+	background-color: #FFFFFF;
+}
+
+.late-table-row {
+	background-color:#c94c4c; 
+}
+
+
+.today-table-row {
+	background-color:#6b5b95;
+}
+
+.color-legend-done {
+	background-color: #A4C639;
+	text-align:center;
+	height:50px;
+	padding-top:15px;
+}
+
+.color-legend-todo {
+	background-color: #FFFFFF;
+	text-align:center;
+	height:50px;
+	padding-top:15px;
+	
+}
+
+.color-legend-late {
+	background-color: #c94c4c; 
+	text-align:center;
+	height:50px;
+	padding-top:15px;
+}
+
+.color-legend-today {
+	background-color: #6b5b95;
+	text-align:center;
+	height:50px;
+	padding-top:15px;
+	
+}
+
+
+
+.button {
+    height:200px;
+    width:210px;
+    font-size: 30px;
+    padding-top: 25%;
+
+}
+
+.enlarge-button{
+    -webkit-transition: width 1s, height 1s, padding-top 1s; /* For Safari 3.1 to 6.0 */
+    transition: width 1s, height 1s, padding-top 1s;
+}
+
+.enlarge-button:hover {
+    width: 250px;
+    height: 250px;
+    padding-top: 35%;
+}
+
+
+
+
+.newspaper {
+    -webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+    column-gap: 75px;
+}
+
+.be-my-relative {
+	position: relative;
+}
+
+
+/* Just for testing */ 
+.see-my-shape {
+	border: 2px solid red;
+}
+
+#flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #BE9EC9;
+    border: solid 1px #c3c3c3;
+    margin-left:0px;
+}
+
+#panel {
+    display: none;
+    background-color: #BE9EC9;
+    margin-left:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

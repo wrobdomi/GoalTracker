@@ -1,0 +1,30 @@
+<!-- Form for adding a ticket to TodoList -->
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+
+<html>
+    
+    <head>
+        <title>GoalTracker</title>
+        <link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css"
+	    		rel="stylesheet">
+	    		
+	    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+	    		rel="stylesheet">
+	    		
+	   	<link href="css/custom.css"
+        rel="stylesheet">
+        
+        <link href="css/boxes.css"
+        rel="stylesheet">
+        
+         <link href="css/underscore.css"
+        rel="stylesheet">
+        
+         <link href="css/3d_attempt.css"
+        rel="stylesheet">
+        
+    </head>
+    
+    <body>
