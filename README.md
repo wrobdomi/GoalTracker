@@ -3,11 +3,9 @@
 - [Application Demo](#application-demo)
   * [Login & Welcome Page](#login-and-welcome-page)
   * [Main features](#main-features)
-  * [Playing around with JS](#playing-around-with-JS)
+  * [Playing around with JS](#playing-around-with-js)
 - [Project Structure](#project-structure)
-  * [Sub-heading](#sub-heading-1)
-  * [Sub-heading](#sub-heading-1)
-  * [Sub-heading](#sub-heading-1)
+  * [Project tree](#project-tree)
 - [Technologies](#technologies)
   * [Architecture](#architecture)
   * [Languages](#languages)
@@ -24,7 +22,6 @@
 
 ## Application Demo
 
-This is an h1 heading
 
 ### Login and Welcome Page 
 
@@ -46,7 +43,7 @@ This is an h1 heading
 
 To do 
 
-### Sub-heading
+### Project tree
 
 To do 
 
