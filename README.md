@@ -1,9 +1,9 @@
 
 # Table of Contents 
 - [Application Demo](#heading)
-  * [Sub-heading](#sub-heading-0)
-  * [Sub-heading](#sub-heading-1)
-  * [Sub-heading](#sub-heading-2)
+  * [Login & Welcome Page](#sub-heading-0)
+  * [Main features](#sub-heading-1)
+  * [Other Features](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
