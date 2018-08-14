@@ -1,6 +1,6 @@
 
 # Table of Contents 
-- [Application Demo](#heading)
+- [Application Demo](#application-demo)
   * [Login & Welcome Page](#sub-heading-0)
   * [Main features](#sub-heading-1)
   * [Other Features](#sub-heading-2)
