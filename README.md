@@ -10,8 +10,7 @@
   * [Libraries](#libraries)
   * [Other resources](#other-resources)
 - [How to run](#how-to-run)
-  * [How to](#how-to)
-   
+
 
 
 
