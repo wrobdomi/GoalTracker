@@ -46,9 +46,9 @@
       * Controllers
     + com.first.springboot.web.springbootwebapplication.model
       * Todo.java - Entity class for database 
-    + com.first.springboot.web.springbootwebapplication.secuity
+    + com.first.springboot.web.springbootwebapplication.security
       * Security Configuration
-    + com.first.springboot.web.springbootwebapplication.serice
+    + com.first.springboot.web.springbootwebapplication.service
       * Database repository and service
   * scr/main/resources
     + application.properties
